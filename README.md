@@ -1,7 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
-<tr><td>智慧城市-无人机视角城市道路旁广告牌检测数据集VOC+YOLO格式1286张3类别</td><td><a href="https://mbd.pub/o/bread/YZWTmp9vaw==">下载</a></td></tr>
+<tr><td>智慧城市-无人机视角城市道路旁广告牌检测数据集VOC+YOLO格式1286张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmp9vaw==">下载</a></td></tr>
 <tr><td>无人机海洋或河道水上监测检测数据集VOC+YOLO格式2903张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZvbQ==">下载</a></td></tr>
 <tr><td>无人机热红外视角人车检测数据集VOC+YOLO格式2866张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZubA==">下载</a></td></tr>
 <tr><td>无人机拍摄红外图像光伏板缺陷检测数据集VOC+YOLO格式2723张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJ5uaw==">下载</a></td></tr>
