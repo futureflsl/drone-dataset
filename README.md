@@ -1,6 +1,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角洪水灾害中人车房子检测数据集VOC+YOLO格式1124张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUm5ppZw==">下载</a></td></tr>
+<tr><td>无人机视角果树树木识别分割数据集labelme格式291张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUm5lwbQ==">下载</a></td></tr>
+<tr><td>无人机视角河道两边地物检测数据集VOC+YOLO格式508张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUm5lwZg==">下载</a></td></tr>
+<tr><td>无人机视角不同颜色绵羊检测数据集VOC+YOLO格式1053张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmp5paw==">下载</a></td></tr>
+<tr><td>无人机视角罂粟检测数据集VOC+YOLO格式2801张共3个部分</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmpZpaQ==">下载</a></td></tr>
+<tr><td>无人机视角塔吊高空作业下方的人员检测数据集VOC+YOLO格式1049张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJ1vaQ==">下载</a></td></tr>
 <tr><td>无人机视角海上漂浮物检测与人员救援检测数据集VOC+YOLO格式2903张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTm59vZg==">下载</a></td></tr>
 <tr><td>智慧城市-无人机视角城市道路旁广告牌检测数据集VOC+YOLO格式1286张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmp9vaw==">下载</a></td></tr>
 <tr><td>无人机海洋或河道水上监测检测数据集VOC+YOLO格式2903张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZvbQ==">下载</a></td></tr>
