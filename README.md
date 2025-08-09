@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧农业-无人机视角庄稼倒伏农作物倒伏检测数据集VOC+YOLO格式541张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZtuag==">下载</a></td></tr>
+<tr><td>智慧农业-无人机视角庄稼倒伏农作物倒伏识别分割数据集labelme格式541张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZtuaA==">下载</a></td></tr>
 <tr><td>无人机视角钓鱼和游泳者溺水检测数据集VOC+YOLO格式1282张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5Zuaw==">下载</a></td></tr>
 <tr><td>无人机视角河道游泳者检测数据集VOC+YOLO格式2000张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5ZwZA==">下载</a></td></tr>
 <tr><td>无人机视角岸边垂钓钓鱼检测数据集VOC+YOLO格式14752张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp9waA==">下载</a></td></tr>
