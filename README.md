@@ -1,7 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
-  <tr><td>无人机视角大棚检测违规搭建大棚温棚分割数据集labelme格式2993张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZ9uZg==">下载</a></td></tr>
+<tr><td>无人机视角行人检测数据集VOC+YOLO格式9964张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlpduZQ==">下载</a></td></tr>
+<tr><td>无人机视角人车检测数据集VOC+YOLO格式11255类别8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlpdtbA==">下载</a></td></tr>
+<tr><td>无人机视角大棚检测违规搭建大棚温棚分割数据集labelme格式2993张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZ9uZg==">下载</a></td></tr>
 <tr><td>无人机视角大棚检测违规搭建大棚温棚检测数据集VOC+YOLO格式2993张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZ9wag==">下载</a></td></tr>
 <tr><td>智慧农业-无人机视角庄稼倒伏农作物倒伏检测数据集VOC+YOLO格式541张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZtuag==">下载</a></td></tr>
 <tr><td>智慧农业-无人机视角庄稼倒伏农作物倒伏识别分割数据集labelme格式541张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZtuaA==">下载</a></td></tr>
