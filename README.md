@@ -1,6 +1,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角土地区域类型识别检测数据集VOC+YOLO格式4904张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5xvZA==">下载</a></td></tr>
+<tr><td>无人机视角土地区域类型识别分割数据集labelme格式4904张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5xuZg==">下载</a></td></tr>
+<tr><td>无人机视角裸土覆盖情况分割数据集labelme格式5888张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5xtbQ==">下载</a></td></tr>
+<tr><td>无人机视角裸土覆盖情况检测数据集VOC+YOLO格式5888张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5xtaQ==">下载</a></td></tr>
+<tr><td>无人机视角乱堆垃圾垃圾场地分割数据集labelme格式1501张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5twbQ==">下载</a></td></tr>
+<tr><td>无人机视角乱堆垃圾垃圾场地检测数据集VOC+YOLO格式1501张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5twag==">下载</a></td></tr>
 <tr><td>无人机视角行人检测数据集VOC+YOLO格式9964张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlpduZQ==">下载</a></td></tr>
 <tr><td>无人机视角人车检测数据集VOC+YOLO格式11255类别8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlpdtbA==">下载</a></td></tr>
 <tr><td>无人机视角大棚检测违规搭建大棚温棚分割数据集labelme格式2993张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZ9uZg==">下载</a></td></tr>
