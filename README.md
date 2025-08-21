@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景高清无人机视角配网缺陷销钉缺失检测数据集VOC+YOLO格式3484张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmZZwaQ==">下载</a></td></tr>
 <tr><td>无人机视角违章建筑识别检测数据集VOC+YOLO格式343张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl55qZw==">下载</a></td></tr>
 <tr><td>无人机违章建筑识别分割数据集labelme格式343张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl55paQ==">下载</a></td></tr>
 <tr><td>无人机视角土地区域类型识别检测数据集VOC+YOLO格式4904张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5xvZA==">下载</a></td></tr>
