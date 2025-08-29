@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角城市管理违规加盖顶棚大棚分割数据集labelme格式1184张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXk5ZwZA==">下载</a></td></tr>
+<tr><td>无人机视角城市管理违规加盖顶棚大棚检测数据集VOC+YOLO格式1184张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXk5ZvbQ==">下载</a></td></tr>
 <tr><td>无人机视角太阳能板光伏板识别检测数据集VOC+YOLO格式1979张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxxZw==">下载</a></td></tr>
 <tr><td>无人机视角太阳能板光伏板识别分割数据集labelme格式1979张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxwbA==">下载</a></td></tr>
 <tr><td>无人机视角工程车渣土车挖掘机起重机检测数据集VOC+YOLO格式926张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxvbQ==">下载</a></td></tr>
