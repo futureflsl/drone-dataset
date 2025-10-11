@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角城市街道固体垃圾检测数据集VOC+YOLO格式194张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYk55waQ==">下载</a></td></tr>
 <tr><td>无人机视角林业树木病害检测数据集VOC+YOLO格式3999张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmZ9qZA==">下载</a></td></tr>
 <tr><td>无人机视角乱堆垃圾垃圾堆检测数据集VOC+YOLO格式712张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXl59uZA==">下载</a></td></tr>
 <tr><td>无人机视角城市管理违规加盖顶棚大棚分割数据集labelme格式1184张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXk5ZwZA==">下载</a></td></tr>
