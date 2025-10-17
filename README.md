@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角河道多目标垃圾检测数据集VOC+YOLO格式1736张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZZuZg==">下载</a></td></tr>
 <tr><td>无人机视角水面油污检测数据集VOC+YOLO格式2177张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJhrZg==">下载</a></td></tr>
 <tr><td>无人机视角城市道路两旁树木检测数据集VOC+YOLO格式3329张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJhpaw==">下载</a></td></tr>
 <tr><td>无人机视角城市街道固体垃圾检测数据集VOC+YOLO格式194张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYk55waQ==">下载</a></td></tr>
