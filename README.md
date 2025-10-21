@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角城市街道场景行人检测数据集VOC+YOLO格式10614张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpZsbQ==">下载</a></td></tr>
+<tr><td>无人机视角烟火火焰火灾烟雾检测数据集VOC+YOLO格式13103张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpZrZQ==">下载</a></td></tr>
 <tr><td>无人机视角鱼塘池塘面积识别分割数据集labelme格式2079张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ1uZw==">下载</a></td></tr>
 <tr><td>无人机视角交通目标检测数据集VOC+YOLO格式2980张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxyag==">下载</a></td></tr>
 <tr><td>无人机视角海岸多场景船舶检测数据集VOC+YOLO格式1954张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZtpaA==">下载</a></td></tr>
