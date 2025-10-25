@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机山区高海拔高隐蔽地区绵羊检测数据集VOC+YOLO格式4046张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlp9xag==">下载</a></td></tr>
 <tr><td>无人机视角建筑工地屋顶盆栽水箱塑料棚子检测数据集VOC+YOLO格式2520张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlppubA==">下载</a></td></tr>
 <tr><td>无人机视角多种工程车辆检测数据集VOC+YOLO格式1138张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpdqZw==">下载</a></td></tr>
 <tr><td>无人机视角露营帐篷检测数据集VOC+YOLO格式1631张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpdpZQ==">下载</a></td></tr>
