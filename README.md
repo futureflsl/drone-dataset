@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角井盖破损未盖井盖异常状态检测数据集VOC+YOLO格式4617张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5hsZw==">下载</a></td></tr>
 <tr><td>无人机视角铁路障碍物检测数据集VOC+YOLO格式1913张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5dvaQ==">下载</a></td></tr>
 <tr><td>无人机视角巡检露天停车场车位识别车位占用检测数据集VOC+YOLO格式1148张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppqZw==">下载</a></td></tr>
 <tr><td>无人机视角轨道巡检火车铁轨轨道缺陷检测数据集VOC+YOLO格式1876张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpZvbA==">下载</a></td></tr>
