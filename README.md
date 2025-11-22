@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机俯视视角下农村宅基地建筑分割检测数据集labelme格式8510张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlphubA==">下载</a></td></tr>
+<tr><td>无人机信号装置检测数据集VOC+YOLO格式1877张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlphtZw==">下载</a></td></tr>
 <tr><td>HazyDet航拍数据集无人机视角雾天车辆检测数据集VOC+YOLO格式11000张3类别已划分好数据集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5xqZQ==">下载</a></td></tr>
 <tr><td>无人机视角红外图像人员搜救检测数据集VOC+YOLO格式19863张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5tyaA==">下载</a></td></tr>
 <tr><td>无人机视角森林倒树识别分割数据集labelme格式5018张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5luZA==">下载</a></td></tr>
