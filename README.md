@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角棕榈树检测数据集VOC+YOLO格式338张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp5xZg==">下载</a></td></tr>
 <tr><td>无人机视角航拍巡检河道识别分割数据集labelme格式646张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlpxpag==">下载</a></td></tr>
 <tr><td>无人机视角航拍河道漂浮物垃圾识别分割数据集labelme格式256张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlpxpaA==">下载</a></td></tr>
 <tr><td>无人机俯视视角下农村宅基地建筑分割检测数据集labelme格式8510张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlphubA==">下载</a></td></tr>
