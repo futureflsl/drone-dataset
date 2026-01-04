@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍工地各种工程车辆检测数据集VOC+YOLO格式1044张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalpdxZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍建筑工地物料垃圾识别分割数据集labelme格式2123张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ1vaQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍建筑工地物料垃圾检测数据集VOC+YOLO格式2122张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ1vaA==">下载</a></td></tr>
 <tr><td>无人机视角稻田水稻杂草检测数据集VOC+YOLO格式625张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWak5tsag==">下载</a></td></tr>
