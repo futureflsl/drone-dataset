@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角配电线航拍瓷瓶绝缘子检测数据集VOC+YOLO格式71张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJpqZA==">下载</a></td></tr>
 <tr><td>无人机视角施工现场人员检测数据集VOC+YOLO格式4058张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal51waA==">下载</a></td></tr>
 <tr><td>无人机视角红外图像太阳能光伏板热斑阴影缺陷检测数据集VOC+YOLO格式667张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5tvaw==">下载</a></td></tr>
 <tr><td>无人机视角航拍工地各种工程车辆检测数据集VOC+YOLO格式1044张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalpdxZQ==">下载</a></td></tr>
