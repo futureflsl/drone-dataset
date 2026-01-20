@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角滑坡泥石流检测数据集VOC+YOLO格式2262张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdyaw==">下载</a></td></tr>
+<tr><td>无人机视角滑坡泥石流分割数据集labelme格式2262张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdyZQ==">下载</a></td></tr>
+<tr><td>无人机视角泥石流检测数据集VOC+YOLO格式21214张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdxbQ==">下载</a></td></tr>
+<tr><td>无人机视角水稻稻穗检测数据集VOC+YOLO格式2185张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdrZA==">下载</a></td></tr>
 <tr><td>智慧交通无人机视角道路路面裂缝坑洞检测数据集VOC+YOLO格式4372张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZtpbQ==">下载</a></td></tr>
 <tr><td>无人机视角河道垃圾瓶子树枝易拉罐塑料检测数据集VOC+YOLO格式2247张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ5pZQ==">下载</a></td></tr>
 <tr><td>无人机视角河道垃圾水上漂浮物金属塑料瓶子检测数据集VOC+YOLO格式1297张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ1vZA==">下载</a></td></tr>
