@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通无人机视角城市街道消防通道占用检测数据集VOC+YOLO格式944张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5ltaQ==">下载</a></td></tr>
+<tr><td>无人机视角垂钓钓鱼游泳溺水检测数据集VOC+YOLO格式901张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5lsZg==">下载</a></td></tr>
+<tr><td>无人机视角红外图像太阳能光伏板热斑异常低温二极管短路缺陷检测数据集VOC+YOLO格式1660张5类</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5lsZw==">下载</a></td></tr>
 <tr><td>无人机视角城市街道占道经营摆摊街摊贩检测数据集VOC+YOLO格式355张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5dqbQ==">下载</a></td></tr>
 <tr><td>无人机视角城市街道占道经营识别分割数据集labelme格式359张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5dqaw==">下载</a></td></tr>
 <tr><td>无人机视角土豆马铃薯洋芋苗病害检测数据集VOC+YOLO格式1539张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp5vaw==">下载</a></td></tr>
