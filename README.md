@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角动物牛羊斑马骆驼海豹驴检测数据集VOC+YOLO格式10000张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xvaw==">下载</a></td></tr>
 <tr><td>无人机视角城市街道行人与车辆检测数据集VOC+YOLO格式5291张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xtbA==">下载</a></td></tr>
 <tr><td>无人机视角工地挖机渣土车塔吊吊车检测数据集VOC+YOLO格式1363张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xtag==">下载</a></td></tr>
 <tr><td>无人机视角河道巡检治理垃圾淤泥植被排水沟障碍物识别分割数据集labelme格式2777张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5tvbQ==">下载</a></td></tr>
