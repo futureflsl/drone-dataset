@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角城市街道行人与车辆检测数据集VOC+YOLO格式5291张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xtbA==">下载</a></td></tr>
+<tr><td>无人机视角工地挖机渣土车塔吊吊车检测数据集VOC+YOLO格式1363张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xtag==">下载</a></td></tr>
 <tr><td>无人机视角河道巡检治理垃圾淤泥植被排水沟障碍物识别分割数据集labelme格式2777张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5tvbQ==">下载</a></td></tr>
 <tr><td>无人机视角智慧河道巡检河道违建河道违规建筑检测数据集VOC+YOLO格式1034张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5twbA==">下载</a></td></tr>
 <tr><td>智慧交通无人机视角城市街道消防通道占用检测数据集VOC+YOLO格式944张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5ltaQ==">下载</a></td></tr>
